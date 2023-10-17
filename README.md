@@ -1,4 +1,4 @@
-# COVID-19 Image Classification Model README
+# COVID-19 Image Classification Model
 
 ## Introduction
 
