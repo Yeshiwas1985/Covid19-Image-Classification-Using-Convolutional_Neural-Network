@@ -48,7 +48,7 @@ The model architecture is designed to capture and extract features from input ch
 - Explain how to use the model for various tasks:
   - Training: Include instructions on how to train the model using your dataset.
   - Evaluation: Describe how to evaluate the model's performance on a test dataset.
-  - Inference: Explain how to use the model for making predictions on new or unseen chest X-ray images.
+  - Inference: Explain how to use the model to predict new or unseen chest X-ray images.
 
 ## How to Run
 
@@ -60,4 +60,4 @@ The model architecture is designed to capture and extract features from input ch
 
 ## Contact
 
-- If you have any questions, issues, or collaboration, contact me using <a> yeshiwasdagnaw23@gmail.com"</a>
+- If you have any questions, issues, or collaboration, contact me using use my LinkedIn address: <h4> <a> linkedin.com/in/yeshiwas-dagnaw-alemu-961318172 </a> </h4>
